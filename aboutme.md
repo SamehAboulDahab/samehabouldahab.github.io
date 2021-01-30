@@ -15,14 +15,22 @@ My name is Sameh AboulDahab (سامح أبوالدهب) and I'm a Marketing Anal
   In the first years of my career, my focus was on systems for collaboration and social business solutions, and my next shift to traditional marketing and advertising for three years, and then it moved to digital marketing as ex-Udacity for digital marketing program mentorship.
 I have experience working on data tracking, data visualization, and analysis in different verticals such as advertisement, event planning, software house, real estate, staffing, and Automotive. 
 
-A highly analytical, I use my strong communication skills and utilize creative problem solving to tackle obstacles and challenges of all shapes and sizes.
+##### Attributes:
+Extrovert;
+Focused on details;
+Hard-working;
+Accurate.
 
-Skills set: self-training/self-learning, data visualization, data analysis, dashboards creator, KPIs finder, performance monitoring.
+#### Skills set: 
+self-training/self-learning, data visualization, data analysis, dashboards creator, KPIs finder, performance monitoring.
 
-Databases: MySQL.
+#### Databases: 
+MySQL.
 
-Reporting Tools:  Power BI, Tableau, Google Data Studio.
+#### Reporting Tools: 
+Power BI, Tableau, Google Data Studio.
 
-Data sources: Google Analytics, Instagram, Facebook, Twitter, YouTube, MySQL databases, Excel spreadsheets, email campaign tracking tools, SEO reporting tools, Ad campaigns traffic tools.
+#### Data sources:
+Google Analytics, Instagram, Facebook, Twitter, YouTube, MySQL databases, Excel spreadsheets, email campaign tracking tools, SEO reporting tools, Ad campaigns traffic tools.
 
-  Also, experienced in a full range of marketing platforms and tools including Canva, Facebook, Google Ads, Google Analytics, SEO, HubSpot, LinkedIn Marketing, Zoho, SurveyMonkey, TypeForm, Ecwid, WordPress, and Shopify.
+ Also, experienced in a full range of marketing platforms and tools including Canva, Facebook, Google Ads, Google Analytics, SEO, HubSpot, LinkedIn Marketing, Zoho, SurveyMonkey, TypeForm, Ecwid, WordPress, and Shopify.
