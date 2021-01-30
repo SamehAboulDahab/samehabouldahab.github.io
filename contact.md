@@ -1,6 +1,6 @@
 
 
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. 
+Can find me on [![Twitter][1.2]][1], if you want to get in touch,  or on [![LinkedIn][3.2]][3], for professional networking.
 
 <form action="https://formspree.io/f/xdopjnwk" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
