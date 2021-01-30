@@ -1,13 +1,8 @@
 If you'd like to set up a meeting with me, Please pick a time that is most convenient for you. 
 
-<!-- Start of Calendar Widget -->
-<div
-  id="calendar-inline-widget"
-  data-calendar-link="https://calendar.x.ai/sameh?disableMeeting=true"
-  style="position: relative; min-width: 330px; height: 600px;"
-></div>
-<script src="https://assets.calendar.com/widget.js"></script>
-<!-- End of Calendar Widget -->
+<!-- Start of Calendar X -->
+<iframe src="https://x.ai/calendar/sameh/free" style="width:100%;min-height:600px;" scrolling="auto"></iframe>
+<!-- End of X Calendar Widget -->
 
 
 <form action="https://formspree.io/f/xdopjnwk" method="POST" class="form" id="contact-form">
