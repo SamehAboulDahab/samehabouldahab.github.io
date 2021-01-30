@@ -5,7 +5,11 @@
   <div class="row">
     
     <div class="col-6">
-      <input type="text" name="Subject" class="form-control form-control-lg" placeholder="Name" title="Name">
+      <input type="text" name="Subject" class="form-control form-control-lg" placeholder="Subject" title="Subject">
+    </div>
+    
+    <div class="col-6">
+      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
     </div>
     
     <div class="col-6">
@@ -13,19 +17,11 @@
     </div>
     
     <div class="col-6">
-      <input type="text" name="Mobile" class="form-control form-control-lg" placeholder="Name" title="Name">
-    </div>
-    
-    <div class="col-6">
-      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
-    </div>
-    
-    <div class="col-6">
-      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
+      <input type="text" name="Mobile" class="form-control form-control-lg" placeholder="Mobile" title="Mobile">
     </div>
     
   </div>
-  <input type="hidden" name="_subject" value="New submission from .com">
+  <input type="hidden" name="_subject" value="New submission from your WEBSITE">
   <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
   <input type="text" name="_gotcha" style="display:none">
   <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
