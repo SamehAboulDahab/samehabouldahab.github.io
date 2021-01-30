@@ -3,7 +3,7 @@ If you'd like to set up a meeting with me, Please pick a time that is most conve
 <!-- Start of Calendar Widget -->
 <div
   id="calendar-inline-widget"
-  data-calendar-link="https://www.calendar.com/samehhabouldahab/free-consultation/?disableMeeting=true"
+  data-calendar-link="https://calendar.x.ai/sameh?disableMeeting=true"
   style="position: relative; min-width: 330px; height: 600px;"
 ></div>
 <script src="https://assets.calendar.com/widget.js"></script>
