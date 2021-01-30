@@ -21,16 +21,16 @@ Focused on details;
 Hard-working;
 Accurate.
 
-#### Skills set: 
+##### Skills set: 
 self-training/self-learning, data visualization, data analysis, dashboards creator, KPIs finder, performance monitoring.
 
-#### Databases: 
+##### Databases: 
 MySQL.
 
-#### Reporting Tools: 
+##### Reporting Tools: 
 Power BI, Tableau, Google Data Studio.
 
-#### Data sources:
+##### Data sources:
 Google Analytics, Instagram, Facebook, Twitter, YouTube, MySQL databases, Excel spreadsheets, email campaign tracking tools, SEO reporting tools, Ad campaigns traffic tools.
 
  Also, experienced in a full range of marketing platforms and tools including Canva, Facebook, Google Ads, Google Analytics, SEO, HubSpot, LinkedIn Marketing, Zoho, SurveyMonkey, TypeForm, Ecwid, WordPress, and Shopify.
