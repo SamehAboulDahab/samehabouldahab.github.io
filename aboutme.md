@@ -1,12 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: "I'll convert your marketing data into user-friendly dashboards that monitor your data so you conclude results instantly"
+subtitle: "I'll convert your data into user-friendly dashboards that monitor your data so you conclude results instantly"
 share-title: "Sameh AboulDahab | About me"
-share-description: ""
+share-description: "I'll convert your data into user-friendly dashboards that monitor your data so you conclude results instantly"
 ---
 
-# Hi!
+### Hi!
 
 My name is Sameh AboulDahab (سامح أبوالدهب) and I'm a Marketing Analyst and Data Visualization Specialist. I'm from Egypt, living in Giza and currently working as a freelancer.
 
