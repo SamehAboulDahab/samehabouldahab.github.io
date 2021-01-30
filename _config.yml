@@ -14,11 +14,9 @@ author: SamehAboulDahab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "tags"
+  Hire Me: "hireme"
   About Me: "aboutme"
-  Blog: "tags" 
-  Services:
-    - Data Visualization: "DataVisualization"
-    - Google Analytics / Data Studio Dashboard: "GoogleAnalyticsDataStudioDashboard"
   Contact Me: "contact"
 
 # --- Logo --- #
