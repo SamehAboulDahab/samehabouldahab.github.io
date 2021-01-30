@@ -1,3 +1,7 @@
+
+
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3], OR 
+
 <form action="https://formspree.io/f/xdopjnwk" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
   <div class="row">
@@ -17,3 +21,25 @@
   
   <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
+
+
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://github.com/SamehAboulDahab/samehabouldahab/blob/main/linkedin_SamehAboulDahab.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/SamehAboulDahab
+[2]: https://github.com/SamehAboulDahab
+[3]: https://www.linkedin.com/in/SamehAboulDahab
