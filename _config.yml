@@ -15,9 +15,10 @@ author: SamehAboulDahab
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Blog: "tags" 
+  Services:
+    - Data Visualization: "DataVisualization"
+    - Google Analytics / Data Studio Dashboard: "GoogleAnalyticsDataStudioDashboard"
   Contact Me: "contact"
 
 # --- Logo --- #
@@ -89,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "samehabouldahab,sameh abouldahab,dashbord,data analyst Egypt"
+keywords: "samehabouldahab,sameh abouldahab,dashbord,data analyst Egypt,Google Analytics,Data Studio Dashboard"
 
 # --- Colours / background image --- #
 
