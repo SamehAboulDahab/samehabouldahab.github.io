@@ -9,7 +9,7 @@
     </div>
     
     <div class="col-6">
-      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
+      <input type="text" required="required" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
     </div>
     
     <div class="col-6">
@@ -17,7 +17,7 @@
     </div>
     
     <div class="col-6">
-      <input type="text" name="Mobile" class="form-control form-control-lg" placeholder="Mobile" title="Mobile">
+      <input type="text" name="Mobile" required="required" class="form-control form-control-lg" placeholder="Mobile" title="Mobile">
     </div>
     
   </div>
