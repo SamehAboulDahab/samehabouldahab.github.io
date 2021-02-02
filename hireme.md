@@ -26,3 +26,10 @@ We collect, crunch and deliver huge amounts of data so you can spend your time m
 
 - Measurement Plan: Translate your business objectives into the right KPI (metrics and dimensions) to be measured
 - Custom Tracking: Analytics and Tag Management: Setup and manage all your tags and tracking pixels in one place
+
+
+{: .box-note}
+**I occasionally take on *freelance* opportunities.**
+
+Have an exciting project _where you need some help_?
+Send me over a message, and let's (chat)[https://samehabouldahab.com/contact/].
