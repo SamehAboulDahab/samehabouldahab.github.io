@@ -29,7 +29,7 @@ We collect, crunch and deliver huge amounts of data so you can spend your time m
 
 
 {: .box-note}
-**I occasionally take on *freelance* opportunities.**
+I occasionally take on *freelance* opportunities.
 
 Have an exciting project _where you need some help_?
-Send me over a message, and let's (chat)[https://samehabouldahab.com/contact/].
+Send me over a message, and let's <a href="https://samehabouldahab.com/contact">schedule a meeting</a> based on your availability.
