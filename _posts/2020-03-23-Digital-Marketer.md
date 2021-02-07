@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECWID ADD E-COMMERCE TO ANY WEBSITE 
+title: TO: Digital Marketer, storefronts , restaurants need our help .. 
 subtitle: The COVID-19 pandemic in Egypt is currently crushing their businesses.  
 cover-img: /assets/img/ 
 share-img: /assets/img/ 
