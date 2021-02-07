@@ -4,3 +4,5 @@ source "https://rubygems.org"
 
 gemspec
 
+# sitemap
+gem 'jekyll-sitemap'
