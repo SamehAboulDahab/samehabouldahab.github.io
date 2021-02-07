@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TO: Digital Marketer, storefronts , restaurants need our help .. 
+title: TO Digital Marketer, storefronts , restaurants need our help!
 subtitle: The COVID-19 pandemic in Egypt is currently crushing their businesses.  
 cover-img: /assets/img/ 
 share-img: /assets/img/ 
